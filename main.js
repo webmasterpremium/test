@@ -1,3 +1,3 @@
-const messageToDisplay = ` Just a message`;
+const messageToDisplay = ` and update Just a message`;
 
 document.write(messageToDisplay);
