@@ -1,2 +1,2 @@
-const messageToDisplay = `my local change rulez`;
+const messageToDisplay = `update from master`;
 document.write(messageToDisplay);
