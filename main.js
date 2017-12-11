@@ -1,2 +1,2 @@
-const messageToDisplay = ` I have updated this on the client and should be the change that rules`;
+const messageToDisplay = ` Hey this change, we don't want it`;
 document.write(messageToDisplay);
