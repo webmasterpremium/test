@@ -1,3 +1,3 @@
-const messageToDisplay = ` I have updated this on the client and should be the change that rules`;
+const messageToDisplay = ` Server side stuff, old`;
 
 document.write(messageToDisplay);
