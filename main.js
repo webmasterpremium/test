@@ -1,2 +1,2 @@
-const messageToDisplay = `my dummy message`;
+const messageToDisplay = `server change we dont want it`;
 document.write(messageToDisplay);
