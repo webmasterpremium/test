@@ -1,2 +1,2 @@
-const messageToDisplay = `LAST UPDATE FROM MASTER`;
+const messageToDisplay = `Another update`;
 document.write(messageToDisplay);
