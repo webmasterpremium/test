@@ -1,2 +1,2 @@
-const messageToDisplay = `update from server`;
+const messageToDisplay = `client change rule`;
 document.write(messageToDisplay);
