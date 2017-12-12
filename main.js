@@ -1,2 +1,2 @@
-const messageToDisplay = `LAST UPDATE FROM MASTER`;
+const messageToDisplay = `my cool change from remote branch`;
 document.write(messageToDisplay);
